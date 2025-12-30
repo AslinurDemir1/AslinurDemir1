@@ -23,18 +23,18 @@
 
 ### 👩‍💻 Hakkımda
 
-Merhaba! Ben **Aslınur Demir**. [cite_start]Ankara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim ve aynı zamanda **Yazılım Mühendisliği** çift ana dalı yapıyorum[cite: 6, 7, 8]. Teknolojiye olan tutkum beni sürekli öğrenmeye ve üretmeye yönlendiriyor.
+Merhaba! Ben **Aslınur Demir**. Ankara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim ve aynı zamanda **Yazılım Mühendisliği** çift ana dalı yapıyorum. Teknolojiye olan tutkum beni sürekli öğrenmeye ve üretmeye yönlendiriyor.
 
 🌟 **Güncel Başarım:**
 > **Google Türkiye, Girişimcilik Vakfı ve T3 Girişim Merkezi** iş birliğinde; **Sanayi ve Teknoloji Bakanlığı** destekleriyle hayata geçirilen **Yapay Zeka ve Teknoloji Akademisi – Yapay Zeka Bölümü** öğrencisi olarak seçildim! 🤖🚀
 
-[cite_start]Şu anda **Software Developer Intern** olarak Backend (Django) ve Frontend (React.js) teknolojileriyle gerçek hayat projeleri geliştiriyor, veritabanı optimizasyonları üzerine çalışıyorum[cite: 15, 16, 17, 19].
+Şu anda **Software Developer Intern** olarak Backend (Django) ve Frontend (React.js) teknolojileriyle gerçek hayat projeleri geliştiriyor, veritabanı optimizasyonları üzerine çalışıyorum.
 
 ---
 
 ### 🛠️ Yetenekler & Teknolojiler
 
-[cite_start]Yazılım geliştirme sürecinde kullandığım diller ve araçlar[cite: 65, 66, 68, 69]:
+Yazılım geliştirme sürecinde kullandığım diller ve araçlar:
 
 <div align="center">
 
@@ -76,17 +76,17 @@ Merhaba! Ben **Aslınur Demir**. [cite_start]Ankara Üniversitesi **Bilgisayar M
 
 ### 🏆 Öne Çıkan Projelerim
 
-* **Kurumsal Portal Projesi:** Django ve React.js kullanılarak geliştirilen şirket içi portal. [cite_start]Veritabanı şemalarının optimizasyonu ve kullanıcı dostu arayüz geliştirme süreçlerini kapsar[cite: 16, 17, 21].
-* [cite_start]**Cosmetic Barcode Scanner:** Flutter ile geliştirilen, ürün içeriklerini analiz eden ve gerçek zamanlı veri çeken barkod okuma uygulaması[cite: 29].
-* [cite_start]**Student-Course Tracking System:** Spring Boot ve MySQL kullanılarak geliştirilen, öğrencilerin ders kayıtlarını takip edebildiği sistem[cite: 42].
-* [cite_start]**Machine Learning Research:** XGBoost, LightGBM ve CatBoost algoritmaları üzerine performans analizi çalışmaları[cite: 48].
+* **Kurumsal Portal Projesi:** Django ve React.js kullanılarak geliştirilen şirket içi portal. Veritabanı şemalarının optimizasyonu ve kullanıcı dostu arayüz geliştirme süreçlerini kapsar.
+* **Cosmetic Barcode Scanner:** Flutter ile geliştirilen, ürün içeriklerini analiz eden ve gerçek zamanlı veri çeken barkod okuma uygulaması.
+* **Student-Course Tracking System:** Spring Boot ve MySQL kullanılarak geliştirilen, öğrencilerin ders kayıtlarını takip edebildiği sistem.
+* **Machine Learning Research:** XGBoost, LightGBM ve CatBoost algoritmaları üzerine performans analizi çalışmaları.
 
 ---
 
 ### 🌱 Topluluklar & Liderlik
 
-* [cite_start]**Huawei Student Developers:** Core Team Member - Etkinlik organizasyonu ve içerik stratejileri geliştirme[cite: 51, 52, 55].
-* [cite_start]**Google Developer Student Clubs (GDSC):** Core Team Member - Proje yönetimi ve teknik bilgi paylaşımı[cite: 57, 58, 61].
+* **Huawei Student Developers:** Core Team Member - Etkinlik organizasyonu ve içerik stratejileri geliştirme.
+* **Google Developer Student Clubs (GDSC):** Core Team Member - Proje yönetimi ve teknik bilgi paylaşımı.
 
 ---
 <div align="center">
