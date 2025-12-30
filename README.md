@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Merhaba,%20Ben%20Aslınur!&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
 
-<!--
-**AslinurDemir1/AslinurDemir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Software+Engineer+Double+Major;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/aslinur-demir" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aslinurdemirr1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+### 👩‍💻 Hakkımda
+
+Merhaba! Ben **Aslınur Demir**. [cite_start]Ankara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim ve aynı zamanda **Yazılım Mühendisliği** çift ana dalı yapıyorum[cite: 6, 7, 8]. Teknolojiye olan tutkum beni sürekli öğrenmeye ve üretmeye yönlendiriyor.
+
+🌟 **Güncel Başarım:**
+> **Google Türkiye, Girişimcilik Vakfı ve T3 Girişim Merkezi** iş birliğinde; **Sanayi ve Teknoloji Bakanlığı** destekleriyle hayata geçirilen **Yapay Zeka ve Teknoloji Akademisi – Yapay Zeka Bölümü** öğrencisi olarak seçildim! 🤖🚀
+
+[cite_start]Şu anda **Software Developer Intern** olarak Backend (Django) ve Frontend (React.js) teknolojileriyle gerçek hayat projeleri geliştiriyor, veritabanı optimizasyonları üzerine çalışıyorum[cite: 15, 16, 17, 19].
+
+---
+
+### 🛠️ Yetenekler & Teknolojiler
+
+[cite_start]Yazılım geliştirme sürecinde kullandığım diller ve araçlar[cite: 65, 66, 68, 69]:
+
+<div align="center">
+
+**Diller** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+**Frontend & Mobile** <br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Backend & Veritabanı** <br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Araçlar & Diğer** <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+
+</div>
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AslinurDemir1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aslinur's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslinurDemir1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Öne Çıkan Projelerim
+
+* **Kurumsal Portal Projesi:** Django ve React.js kullanılarak geliştirilen şirket içi portal. [cite_start]Veritabanı şemalarının optimizasyonu ve kullanıcı dostu arayüz geliştirme süreçlerini kapsar[cite: 16, 17, 21].
+* [cite_start]**Cosmetic Barcode Scanner:** Flutter ile geliştirilen, ürün içeriklerini analiz eden ve gerçek zamanlı veri çeken barkod okuma uygulaması[cite: 29].
+* [cite_start]**Student-Course Tracking System:** Spring Boot ve MySQL kullanılarak geliştirilen, öğrencilerin ders kayıtlarını takip edebildiği sistem[cite: 42].
+* [cite_start]**Machine Learning Research:** XGBoost, LightGBM ve CatBoost algoritmaları üzerine performans analizi çalışmaları[cite: 48].
+
+---
+
+### 🌱 Topluluklar & Liderlik
+
+* [cite_start]**Huawei Student Developers:** Core Team Member - Etkinlik organizasyonu ve içerik stratejileri geliştirme[cite: 51, 52, 55].
+* [cite_start]**Google Developer Student Clubs (GDSC):** Core Team Member - Proje yönetimi ve teknik bilgi paylaşımı[cite: 57, 58, 61].
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AslinurDemir1&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views"/>
+</div>
