@@ -68,8 +68,8 @@ Yazılım geliştirme sürecinde kullandığım diller ve araçlar:
 ### 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslinurDemir1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aslinur's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslinurDemir1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AslinurDemir1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="Aslinur's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslinurDemir1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
 </div>
 
 ---
